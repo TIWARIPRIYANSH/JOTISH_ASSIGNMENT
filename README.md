@@ -13,7 +13,7 @@ Salary Graph	City Map	Photo Capture
 <img width="957" height="862" alt="Screenshot 2025-10-15 013357" src="https://github.com/user-attachments/assets/6427269a-9f2c-4b5f-9a77-75f432de8bf8" />
 <img width="1789" height="864" alt="Screenshot 2025-10-15 013558" src="https://github.com/user-attachments/assets/6b8c86e9-4790-47fc-a3f5-63065fa80459" />
 <img width="1235" height="798" alt="Screenshot 2025-10-15 013615" src="https://github.com/user-attachments/assets/ba2ffdb8-d124-44ca-88f5-bcde0fb7f711" />
-<img width="693" height="757" alt="Screenshot 2025-10-15 013726" src="https://github.com/user-attachments/assets/bdcfe1b2-7c2a-401a-b5cb-97da2f3a61c0" />
+
 <img width="1594" height="651" alt="Screenshot 2025-10-15 013744" src="https://github.com/user-attachments/assets/e683fce0-fa38-483a-af4d-41fd66bbf921" />
 <img width="1497" height="622" alt="Screenshot 2025-10-15 013804" src="https://github.com/user-attachments/assets/52194bbd-1528-41f7-ac42-e6e552c5b02a" />
 
